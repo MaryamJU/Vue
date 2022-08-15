@@ -1,19 +1,19 @@
 <template>
     <div class="shop">
         <ContentLogo />
-        <HelloWorld msg="Welcome to Your Vue.js App" />
+        <ContentToy />
     </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import ContentToy from "@/components/ContentToy.vue";
 import ContentLogo from "../components/ContentLogo.vue";
 
 export default {
     name: "Shop-",
     components: {
-        HelloWorld,
+        ContentToy,
         ContentLogo,
     },
 };

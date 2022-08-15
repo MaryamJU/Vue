@@ -67,11 +67,10 @@ export default {
             ],
         };
     },
-    name: "HelloWorld",
+    name: "ContentToy",
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 .container {
     .icon img {

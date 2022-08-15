@@ -47,4 +47,8 @@ m, ms, me, mx, my, mt, mt,
     color: #fff;
     font-size: 12px;
 }
+h1 {
+    font-family: cursive;
+    font-size: 35px;
+}
 </style>
