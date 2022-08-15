@@ -1,5 +1,5 @@
 <template>
-    <div class="my-account">
+    <div class="container">
         <h1>{{ pageName }}</h1>
         <p>{{ pageDescription }}</p>
     </div>

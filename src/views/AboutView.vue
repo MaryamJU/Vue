@@ -1,7 +1,9 @@
 <template>
     <div class="about">
-        <h1>{{ pageName }}</h1>
-        <p>{{ pageDescription }}</p>
+        <div class="container">
+            <h1>{{ pageName }}</h1>
+            <p>{{ pageDescription }}</p>
+        </div>
     </div>
 </template>
 <script>
