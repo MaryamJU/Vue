@@ -29,7 +29,7 @@
 <style scoped>
 #intro {
     height: 380px;
-    background-image: url("../assets/svg (1).png");
+    background-image: url("../assets/svg.png");
 }
 /*
 p, ps, pe, px, py, pb, pt, 1~5
